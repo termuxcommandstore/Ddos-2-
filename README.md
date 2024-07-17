@@ -1,7 +1,10 @@
 # Ddos-2- 
 
 apt update 
+
 apt upgrade
+
+apt install golang
 
 git clone https://github.com/hoaan1995/ZxCDDoS/
 
