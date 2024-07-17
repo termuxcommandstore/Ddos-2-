@@ -4,6 +4,8 @@ apt update
 
 apt upgrade
 
+apt install git
+
 apt install golang
 
 git clone https://github.com/hoaan1995/ZxCDDoS/
